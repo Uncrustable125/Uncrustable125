@@ -27,7 +27,7 @@ playable demos and video walkthroughs
 - **Languages** — C#, C++, C, Python, Java, JavaScript, HTML/CSS
 - **Engine & tools** — Unity, Git, SolidWorks
 - **Unity specifics** — ScriptableObjects, the Input System with C#
-  events, JSON save/load, WebGL builds, custom UI, and anything else.
+  events, JSON save/load, WebGL builds, custom UI
 
 ---
 
